@@ -1,3 +1,10 @@
+
+# data
+原始下载数据/*/*.xls
+长三角城市年度数据/*.xls
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
